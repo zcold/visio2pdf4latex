@@ -3,20 +3,35 @@ visio2pdf4latex
 
 visio2pdf4latex = Visio to PDF for LaTeX
 
-**Usage**
+_**Motivation**_
+
+Before:
+
+1. Draw a figure in visio.
+2. **Manually** Save it as an emf file and **font information is LOST**.
+3. **Manually** use the [emf2eps tool from LyX] to convert it into eps.
+4. Include this _just fine_ figure in LaTeX.
+
+After:
+
+1. Draw a figure in visio.
+2. **Automatically** invoke visio2pdf4latex.
+3. Include the produced _perfect_ pdf in LaTeX.
+
+_**Usage**_
 
 1. Open visio2pdf4latex.sln in Visual Studio 2012.
 2. Build solution.
 3. Move visio2pdf4latex.exe and Microsoft.Office.Interop.Visio.dll to the folder you want.
 4. Execute visio2pdf4latex example.vsdx
 
-**Functionality**
+_**Functionality**_
 
 1. Open the visio file ("Example.vsdx")in Visio 2013 in [invsible mode].
-1. Export the first shape in the first page to "temp.svg".
-2. Open "temp.svg" in Visio 2013.
-3. Export the "temp.svg" to "Example.pdf"
-4. Quit Visio 2013
+2. Export the first shape in the first page to "temp.svg".
+3. Open "temp.svg" in Visio 2013.
+4. Export the "temp.svg" to "Example.pdf"
+5. Quit Visio 2013
 
 **BE SURE** you have at least 1mm margin to the bottom.
 
@@ -30,12 +45,11 @@ Example:
 3. Group all shapes
 4. Use visio2pdf4latex
 
+_**Requirement**_
 
-**Requirement**
-
-[MS .NET Framework 4.5]
-Visio (only Visio 2013 is tested)
-Visual Studio 2012
+1. [MS .NET Framework 4.5]
+2. Visio (only Visio 2013 is tested)
+3. Visual Studio 2012
 
 [emf2eps tool from LyX]: http://wiki.lyx.org/Windows/MetafileToEPSConverter
 [MS .NET Framework 4.5]: http://www.microsoft.com/en-us/download/details.aspx?id=30653
