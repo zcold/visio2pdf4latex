@@ -20,4 +20,14 @@ visio2pdf4latex = Visio to PDF for LaTeX
 
 **BE SURE** you have at least 1mm margin to the bottom.
 
+Example:
+
+1. Make a rectanle shape as the background
+
+![Example](https://copy.com/ZhOqkZI0p7Ym/example.png?revision=273, "example")
+
+2. Remove its line color
+3. Group all shapes
+4. Use visio2pdf4latex
+
 [invsible mode]: http://msdn.microsoft.com/en-us/library/ff766890.aspx
