@@ -30,4 +30,13 @@ Example:
 3. Group all shapes
 4. Use visio2pdf4latex
 
+
+**Requirement**
+
+[MS .NET Framework 4.5]
+Visio (only Visio 2013 is tested)
+Visual Studio 2012
+
+[emf2eps tool from LyX]: http://wiki.lyx.org/Windows/MetafileToEPSConverter
+[MS .NET Framework 4.5]: http://www.microsoft.com/en-us/download/details.aspx?id=30653
 [invsible mode]: http://msdn.microsoft.com/en-us/library/ff766890.aspx
