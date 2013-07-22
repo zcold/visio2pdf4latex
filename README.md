@@ -22,7 +22,7 @@ visio2pdf4latex = Visio to PDF for LaTeX
 
 Example:
 
-1. Make a rectanle shape as the background
+1. Make a rectanle shape as the background as follows.
 
 ![Example](https://copy.com/ZhOqkZI0p7Ym/example.png?revision=273, "example")
 
