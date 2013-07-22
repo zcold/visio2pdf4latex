@@ -7,8 +7,8 @@
     <ProjectGuid>{5822F034-EE19-40A3-A92D-BF972890AAF8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VisioSaveAs</RootNamespace>
-    <AssemblyName>VisioSaveAs</AssemblyName>
+    <RootNamespace>visio2pdf4latex</RootNamespace>
+    <AssemblyName>visio2pdf4latex</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

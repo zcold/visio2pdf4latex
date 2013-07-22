@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisioSaveAs", "VisioSaveAs.csproj", "{5822F034-EE19-40A3-A92D-BF972890AAF8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "visio2pdf4latex", "visio2pdf4latex.csproj", "{5822F034-EE19-40A3-A92D-BF972890AAF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
